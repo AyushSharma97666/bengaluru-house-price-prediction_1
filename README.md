@@ -21,6 +21,15 @@ Dataset used for this project is available on Kaggle:
 - **Flask** for creating an HTTP server
 - **HTML, CSS, JavaScript** for UI
 
+## Concepts Learned
+- **Data Cleaning**
+- **Feature Engineering**
+- **Dimensionality Reduction**
+- **Outlier Removal**
+- **One Hot Encoding**
+- **Building Models with different logic and approaches to find the best model**
+- **Model export in Pickle file**
+
 ## Project Structure
 ```
 bengaluru-house-price-prediction/
@@ -36,7 +45,10 @@ bengaluru-house-price-prediction/
 │   ├── preprocess.py           # Data preprocessing functions
 │── templates/                   # HTML Templates for UI
 │   ├── index.html
-
+│── static/                      # CSS & JavaScript
+│── requirements.txt             # Dependencies
+│── README.md                    # Project documentation
+│── .gitignore                   # Ignore unnecessary files
 ```
 
 ## Installation
