@@ -36,10 +36,7 @@ bengaluru-house-price-prediction/
 │   ├── preprocess.py           # Data preprocessing functions
 │── templates/                   # HTML Templates for UI
 │   ├── index.html
-│── static/                      # CSS & JavaScript
-│── requirements.txt             # Dependencies
-│── README.md                    # Project documentation
-│── .gitignore                   # Ignore unnecessary files
+
 ```
 
 ## Installation
